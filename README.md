@@ -17,6 +17,7 @@ http://sitemakers.in
 3) Click on "Login to Download" link to download Advance E-commerce Series in Laravel 6.0/7.0/8.0 (Part 1 to 100)
 
 4) Enter Username and Password if you have already got it otherwise get one by joining Stack Developers Youtube Channel as Premium Member with below link (Recommended) :-
+
 https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
 
 Or 
