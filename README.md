@@ -2,9 +2,11 @@
 Make Advance E-commerce Website in Laravel 6.0 / 7.0 / 8.0 (Part 1 - 100)
 
 Follow below playlist to make Advance E-commerce Website in Laravel 6.0 / Laravel 7.0 / Laravel 8.0
+
 https://www.youtube.com/playlist?list=PLLUtELdNs2ZaHaFmydqjcQ-YyeQ19Cd6u
 
 To get the code, please join Stack Developers Youtube Channel as Premium Member :-
+
 https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
 
 Steps to download Advance E-commerce Website in Laravel 6.0/7.0/8.0 from Part 1 to 100 along with database :-
