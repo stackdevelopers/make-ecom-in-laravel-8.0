@@ -25,7 +25,7 @@ https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
 Or 
 
 Subscribe with Paypal to become Stack Developers Premium Member with below link :- 
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-3KH251166Y0267949L5BG3FQ
+https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-252832103W885352AMCIYQZI
 
 (Username/Password will be emailed to you / shared at Social network / Channel Community)
 
